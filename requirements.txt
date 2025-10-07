@@ -1,0 +1,6 @@
+streamlit>=1.36
+requests>=2.32
+pymongo[srv]>=4.8
+python-dateutil>=2.9
+Pillow>=10.4
+qrcode[pil]>=7.4

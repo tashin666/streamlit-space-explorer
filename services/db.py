@@ -36,9 +36,8 @@ def get_collection():
     return col
 
 def save_favorite(user_id: str, item: Dict[str, Any]) -> bool:
-    """Upsert a favorite APOD item for a user. Returns True on success."""
     col = get_collection()
-    if not col:
+    if col is None:
         return False
     doc = {
         "user_id": user_id,
@@ -59,28 +58,26 @@ def save_favorite(user_id: str, item: Dict[str, Any]) -> bool:
             upsert=True
         )
         return True
-    except errors.PyMongoError as e:
-        logger.error("Failed to save favorite: %s", e)
+    except errors.PyMongoError:
         return False
+
 
 def remove_favorite(user_id: str, apod_date: str) -> bool:
     col = get_collection()
-    if not col:
+    if col is None:
         return False
     try:
         col.delete_one({"user_id": user_id, "apod_date": apod_date})
         return True
-    except errors.PyMongoError as e:
-        logger.error("Failed to remove favorite: %s", e)
+    except errors.PyMongoError:
         return False
+
 
 def list_favorites(user_id: str) -> List[Dict[str, Any]]:
     col = get_collection()
-    if not col:
+    if col is None:
         return []
     try:
-        docs = list(col.find({"user_id": user_id}).sort("apod_date", -1))
-        return docs
-    except errors.PyMongoError as e:
-        logger.error("Failed to list favorites: %s", e)
+        return list(col.find({"user_id": user_id}).sort("apod_date", -1))
+    except errors.PyMongoError:
         return []

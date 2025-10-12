@@ -541,7 +541,6 @@ if PAGE == "APOD":
         with choose_col1:
             st.date_input(
                 "Choose a date",
-                value=st.session_state["browse_date"],
                 min_value=APOD_EARLIEST,
                 max_value=TEN_DAYS_AGO,
                 format="YYYY-MM-DD",

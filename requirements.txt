@@ -4,3 +4,5 @@ pymongo[srv]>=4.8
 python-dateutil>=2.9
 Pillow>=10.4
 qrcode[pil]>=7.4
+pydeck>=0.9
+pandas>=2.2

